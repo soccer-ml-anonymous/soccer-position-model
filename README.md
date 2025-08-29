@@ -2,7 +2,7 @@
 
 This repository contains code and resources for the paper:
 **"Identification of Attacking Roles in Soccer Based on Machine Learning"**  
-Yamada, H. (2025). Submitted to *スポーツパフォーマンス研究*.
+Currently under peer review to ***Research Journal of Sports Performance***.
 
 ## 📁 Contents
 - `notebooks/`: Google Colab notebooks
@@ -19,4 +19,4 @@ This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For inquiries: yamada-hi@bss.ac.jp
+For inquiries: (currently not disclosed)

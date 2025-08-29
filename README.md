@@ -12,10 +12,10 @@ Currently under peer review for the *Research Journal of Sports Performance*.
 ## 📋 Contents / 内容
 - `heatmap_wc_statsbomb.py`  
   : Player Pass heatmap analysis using StatsBomb data (World Cup)
-- : 選手のパスヒートマップをStatsbombデータから描く
+: 選手のパスヒートマップをStatsbombデータから描く
 - `position_classification_supervised.py`  
   : Position classification using supervised learning
-- : 教師あり学習によるポジション判別
+: 教師あり学習によるポジション判別
 - `README.md`  
   : This file
 

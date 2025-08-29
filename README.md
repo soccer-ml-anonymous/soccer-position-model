@@ -9,6 +9,14 @@ Currently under peer review for the *Research Journal of Sports Performance*.
 
 ---
 
+## Research Overview
+
+This repository is part of a research project on identifying attacking roles in soccer using machine learning. Using StatsBomb's FIFA World Cup event data, we visualize player heatmaps and build supervised classification models to detect positional roles. The goal is to enhance tactical analysis and player evaluation through data-driven approaches in sports analytics.
+
+## 研究概要
+
+本リポジトリは、サッカーにおける攻撃時の選手ポジション判別に関する研究の一環として作成されたものです。StatsBombが提供するFIFAワールドカップのイベントデータを用いて、選手のヒートマップ可視化および教師あり学習によるポジション分類モデルの構築を行っています。本研究は、戦術分析や選手評価の高度化を目的とし、スポーツデータサイエンスの発展に寄与することを目指しています。
+
 ## 📋 Contents / 内容
 - `heatmap_wc_statsbomb.py`  
   : Player Pass heatmap analysis using StatsBomb data (World Cup)

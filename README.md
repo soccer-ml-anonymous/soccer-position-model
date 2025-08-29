@@ -19,10 +19,10 @@ This repository is part of a research project on identifying attacking roles in 
 
 ## 📋 Contents / 内容
 - `heatmap_wc_statsbomb.py`  
-  : Player Pass heatmap analysis using StatsBomb data (World Cup)
+  : Player Pass heatmap analysis using StatsBomb data (World Cup)  
 （選手のパスヒートマップをStatsbombデータから描く）
 - `position_classification_supervised.py`  
-  : Position classification using supervised learning
+  : Position classification using supervised learning  
 （教師あり学習によるポジション判別）
 - `README.md`  
   : This file

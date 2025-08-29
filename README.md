@@ -1,4 +1,6 @@
-# Identification of Attacking Roles in Soccer Based on Machine Learning
+# Identification of Attacking Roles in Soccer Based on Machine Learning　　
+サッカーにおける機械学習による攻撃時の選手ポジション判別
+
 
 This repository contains code and resources for the paper:  
 **"Identification of Attacking Roles in Soccer Based on Machine Learning"**  

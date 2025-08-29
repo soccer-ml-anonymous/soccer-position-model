@@ -31,8 +31,6 @@ This repository is part of a research project on identifying attacking roles in 
 This project uses publicly available data from the [tatsBomb Open Data repository.  
 https://github.com/statsbomb/open-data
 
-
-
 ## 🧭 Execution Order / 実行順序
 Please run the notebooks in the following order:
 1. **Player Heatmap Analysis (World Cup)**  

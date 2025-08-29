@@ -28,10 +28,10 @@ This repository is part of a research project on identifying attacking roles in 
   : This file
 
 ## Data Source / データソース
-This project uses publicly available data from the [StatsBomb Open Data repository](https://github.com/statsbomb/open-data/pulls).  
+This project uses publicly available data from the [StatsBomb Open Data repository](https://github.com/statsbomb/open-data/).  
 Note: According to StatsBomb's terms and conditions, if you publish, share, or distribute any research or insights based on this data, you should state the data source as StatsBomb and use their logo, available in the Media Pack.
 
-本研究では、[StatsBomb Open Data](https://github.com/statsbomb/open-data/pulls)で公開されているFIFAワールドカップのイベントデータを使用しています。  
+本研究では、[StatsBomb Open Data](https://github.com/statsbomb/open-data/)で公開されているFIFAワールドカップのイベントデータを使用しています。  
 ※本リポジトリはStatsBombのオープンデータを用いた研究成果を含みます。公開・共有にあたっては、StatsBombをデータソースとして明記し、Media Packに含まれるロゴの使用が推奨されています。
 
 ## 🧭 Execution Order / 実行順序

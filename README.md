@@ -63,7 +63,7 @@ The following libraries are used (all available by default in Colab):
 
 ## How to Run on Google Colab / 実行方法　（Google Colab）
 Click the link below to view the notebook on Google Colab.
-Note: The notebook opens in viewer mode. To run the code, please copy it to your own Colab environment.
+Note: The notebook opens in viewer mode. To run the code, please copy it to your own Colab environment.  
 以下のリンクをクリックすると、Google Colab上でNotebookを閲覧できます（※閲覧者モードのため、実行にはコピーが必要です）。
 
 - 📊 **Player Heatmap Analysis (World Cup)**  

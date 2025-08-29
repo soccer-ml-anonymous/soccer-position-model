@@ -4,11 +4,13 @@ This repository contains code and resources for the paper:
 **"Identification of Attacking Roles in Soccer Based on Machine Learning"**  
 Currently under peer review to ***Research Journal of Sports Performance***.
 
-## 📁 Contents
-- `notebooks/`: Google Colab notebooks
-- `data/`: Sample data (if shareable)
-- `models/`: Trained models or configs
-- `README.md`: This file
+## 📋 Contents
+- `statsbombから選手個人のW杯のヒートマップを描く3.ipynb`  
+  : Player heatmap analysis using StatsBomb data (World Cup)
+- `ポジションの判別（教師あり学習）2.ipynb`  
+  : Position classification using supervised learning
+- `README.md`  
+  : This file
 
 ## 🚀 How to Run
 Open the notebook in Google Colab:  

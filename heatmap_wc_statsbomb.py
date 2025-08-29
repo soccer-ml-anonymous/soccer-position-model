@@ -9,7 +9,7 @@ Original file is located at
 # 🔹 1. 必要なライブラリのインストール
 """
 
-!pip install statsbombpy kloppy seaborn matplotlib pandas
+!pip install statsbombpy kloppy
 
 """# 🔹2.Statsbomb open dataに含まれる大会を出力して確認す
 

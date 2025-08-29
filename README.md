@@ -24,6 +24,12 @@ Please run the notebooks in the following order:
 2. **Position Classification using Supervised Learning**  
    This notebook uses the processed data to train and evaluate a supervised learning model (CNN) for identifying player positions based on heatmap features.
 
+以下の順番でノートブックを実行してください：
+1. **選手個人のヒートマップ分析（W杯）**  
+   StatsBombのイベントデータを用いて、W杯における選手個人のヒートマップを作成します。データの読み込み、フィルタリング、可視化の処理を含みます。
+2. **ポジションの判別（教師あり学習）**  
+   作成したヒートマップの特徴量を用いて、CNNモデルによる選手ポジションの分類と評価を行います。
+
 ## 🛠️ Environment / 実行環境
 
 These notebooks were developed and tested using Google Colab, which provides a pre-configured Python environment in the cloud.  
@@ -49,24 +55,6 @@ Colabに標準で含まれている以下のライブラリを使用していま
 - seaborn  
 - scikit-learn  
 - tensorflow / keras（CNNモデル用）
-
----
-
-## 🧭 Execution Order  / 実行手順
-
-Please run the notebooks in the following order:
-
-1. **Player Heatmap Analysis (World Cup)**  
-   This notebook processes StatsBomb event data to generate individual player heatmaps for World Cup matches. It includes data loading, filtering, and visualization steps.
-
-2. **Position Classification using Supervised Learning**  
-   This notebook uses the processed data to train and evaluate a supervised learning model (CNN) for identifying player positions based on heatmap features.
-
-以下の順番でノートブックを実行してください：
-1. **選手個人のヒートマップ分析（W杯）**  
-   StatsBombのイベントデータを用いて、W杯における選手個人のヒートマップを作成します。データの読み込み、フィルタリング、可視化の処理を含みます。
-2. **ポジションの判別（教師あり学習）**  
-   作成したヒートマップの特徴量を用いて、CNNモデルによる選手ポジションの分類と評価を行います。
 
 ## 🚀 How to Run
 You can open and run the following notebooks in Google Colab:

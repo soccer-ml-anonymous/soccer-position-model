@@ -70,10 +70,14 @@ Colabに標準で含まれている以下のライブラリを使用していま
 - scikit-learn  
 - tensorflow / keras（CNNモデル用）
 
-## 🚀 How to Run
-You can open and run the following notebooks in Google Colab:
+## How to Run on Google Colab / 実行方法　（Google Colab）
+Click the link below to view the notebook on Google Colab.
+Note: The notebook opens in viewer mode. To run the code, please copy it to your own Colab environment.
+以下のリンクをクリックすると、Google Colab上でNotebookを閲覧できます（※閲覧者モードのため、実行にはコピーが必要です）。
+
 - 📊 **Player Heatmap Analysis (World Cup)**  
-  [Open in Colab](https://colab.research.google.com/drive/1KqpJNR3HeR0WHxMN4U0QSUSDq0m1zyK8?usp=sharing  
+  [Open in Colab](https://colab.research.google.com/drive/1KqpJNR3HeR0WHxMN4U0QSUSDq0m1zyK8?usp=sharing
+- 📊  **Position Classification using Supervised Learning**  
   [Open in Colab](https://colab.research.google.com/drive/1atx6wMqQdPFQD4STPy9t0RTFjS_wG_nF?usp=sharing
 
 ## 📄 License

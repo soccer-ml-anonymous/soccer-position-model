@@ -9,7 +9,7 @@ Currently under peer review for the *Research Journal of Sports Performance*.
 本リポジトリは、論文「Identification of Attacking Roles in Soccer Based on Machine Learning」に関連するコードおよび資料を含んでいます。  
 現在、『スポーツパフォーマンス研究』誌に査読中です。
 
-## 📋 Contents
+## 📋 Contents / 内容
 - `statsbombから選手個人のW杯のヒートマップを描く3.ipynb`  
   : Player heatmap analysis using StatsBomb data (World Cup)
 - `ポジションの判別（教師あり学習）2.ipynb`  
@@ -17,7 +17,7 @@ Currently under peer review for the *Research Journal of Sports Performance*.
 - `README.md`  
   : This file
 
-## 🧭 Execution Order
+## 🧭 Execution Order / 実行順序
 Please run the notebooks in the following order:
 1. **Player Heatmap Analysis (World Cup)**  
    This notebook processes StatsBomb event data to generate individual player heatmaps for World Cup matches. It includes data loading, filtering, and visualization steps.

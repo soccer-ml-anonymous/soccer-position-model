@@ -9,6 +9,8 @@ Currently under peer review for the *Research Journal of Sports Performance*.
 本リポジトリは、論文「Identification of Attacking Roles in Soccer Based on Machine Learning」に関連するコードおよび資料を含んでいます。  
 現在、『スポーツパフォーマンス研究』誌に査読中です。
 
+---
+
 ## 📋 Contents / 内容
 - `statsbombから選手個人のW杯のヒートマップを描く3.ipynb`  
   : Player heatmap analysis using StatsBomb data (World Cup)
@@ -16,6 +18,8 @@ Currently under peer review for the *Research Journal of Sports Performance*.
   : Position classification using supervised learning
 - `README.md`  
   : This file
+
+---
 
 ## 🧭 Execution Order / 実行順序
 Please run the notebooks in the following order:
@@ -54,6 +58,19 @@ Colabに標準で含まれている以下のライブラリを使用していま
 - scikit-learn  
 - tensorflow / keras（CNNモデル用）
 
+---
+
+## 🧭 Execution Order  / 実行手順
+
+Please run the notebooks in the following order:
+
+1. **Player Heatmap Analysis (World Cup)**  
+   This notebook processes StatsBomb event data to generate individual player heatmaps for World Cup matches. It includes data loading, filtering, and visualization steps.
+
+2. **Position Classification using Supervised Learning**  
+   This notebook uses the processed data to train and evaluate a supervised learning model (CNN) for identifying player positions based on heatmap features.
+
+---
 
 以下の順番でノートブックを実行してください：
 1. **選手個人のヒートマップ分析（W杯）**  

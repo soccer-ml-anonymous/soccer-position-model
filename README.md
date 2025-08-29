@@ -54,16 +54,18 @@ These notebooks were developed and tested using Google Colab, which provides a p
 No local setup is required.  
 これらのNotebookは、Google Colab上で開発・検証されています。Google Colabはクラウド上に事前構成されたPython環境を提供しており、ローカル環境でのセットアップは不要です。
 
-The following libraries are used (all available by default in Colab):  
-以下のライブラリを使用しています（すべてColabに標準で含まれています）：
+The following libraries are used. Most are available by default in Colab, but some (e.g., statsbombpy, kloppy) require installation via pip.  
+以下のライブラリを使用しています。多くはColabに標準で含まれていますが、一部（`statsbombpy`, `kloppy`）は `pip` によるインストールが必要です：
 
 - Python 3.10+
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- tensorflow / keras (for CNN model)
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
+- scikit-learn  
+- tensorflow / keras（CNNモデル用）  
+- statsbombpy（StatsBombデータの取得・処理用）  
+- kloppy（イベント・トラッキングデータの統一処理用）
 
 ## How to Run on Google Colab / 実行方法　（Google Colab）
 Click the link below to view the notebook on Google Colab.

@@ -47,9 +47,11 @@ Please run the notebooks in the following order:
 ## 🛠️ Environment / 実行環境
 
 These notebooks were developed and tested using Google Colab, which provides a pre-configured Python environment in the cloud.  
-No local setup is required.
+No local setup is required.  
+これらのNotebookは、Google Colab上で開発・検証されています。Google Colabはクラウド上に事前構成されたPython環境を提供しており、ローカル環境でのセットアップは不要です。
 
-The following libraries are used (all available by default in Colab):
+The following libraries are used (all available by default in Colab):  
+以下のライブラリを使用しています（すべてColabに標準で含まれています）：
 
 - Python 3.10+
 - pandas
@@ -58,17 +60,6 @@ The following libraries are used (all available by default in Colab):
 - seaborn
 - scikit-learn
 - tensorflow / keras (for CNN model)
-
-本ノートブックは [Google Colab](https://colab.researchす。  
-Colabに標準で含まれている以下のライブラリを使用しています：
-
-- Python 3.10以上  
-- pandas  
-- numpy  
-- matplotlib  
-- seaborn  
-- scikit-learn  
-- tensorflow / keras（CNNモデル用）
 
 ## How to Run on Google Colab / 実行方法　（Google Colab）
 Click the link below to view the notebook on Google Colab.

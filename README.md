@@ -1,8 +1,13 @@
 # Identification of Attacking Roles in Soccer Based on Machine Learning
 
-This repository contains code and resources for the paper:
+This repository contains code and resources for the paper:  
 **"Identification of Attacking Roles in Soccer Based on Machine Learning"**  
-Currently under peer review to ***Research Journal of Sports Performance***.
+Currently under peer review for the *Research Journal of Sports Performance*.
+
+---
+
+本リポジトリは、論文「Identification of Attacking Roles in Soccer Based on Machine Learning」に関連するコードおよび資料を含んでいます。  
+現在、『スポーツパフォーマンス研究』誌に査読中です。
 
 ## 📋 Contents
 - `statsbombから選手個人のW杯のヒートマップを描く3.ipynb`  
@@ -28,12 +33,7 @@ Please run the notebooks in the following order:
    作成したヒートマップの特徴量を用いて、CNNモデルによる選手ポジションの分類と評価を行います。
 
 ## 🚀 How to Run
-Open the notebook in Google Colab:  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yamada-sports-data-lab/soccer-position-model/blob/main/notebooks/main.ipynb)
-
-## 🚀 How to Run
 You can open and run the following notebooks in Google Colab:
-
 - 📊 **Player Heatmap Analysis (World Cup)**  
   [Open in Colab](https://colab.research.google.com/drive/1KqpJNR3HeR0WHxMN4U0QSUSDq0m1zyK8?usp=sharing  
   [Open in Colab](https://colab.research.google.com/drive/1atx6wMqQdPFQD4STPy9t0RTFjS_wG_nF?usp=sharing

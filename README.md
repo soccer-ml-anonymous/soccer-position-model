@@ -28,7 +28,8 @@ This repository is part of a research project on identifying attacking roles in 
   : This file
 
 ## Data Source / データソース
-This project uses publicly available data from the [tatsBomb Open Data repository.  
+This project uses publicly available data from the StatsBomb Open Data repository.  
+本研究では、StatsBomb Open Data リポジトリで公開されているFIFAワールドカップのイベントデータを使用しています。  
 https://github.com/statsbomb/open-data
 
 ## 🧭 Execution Order / 実行順序

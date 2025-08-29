@@ -18,7 +18,7 @@ Open the notebook in Google Colab:
 You can open and run the following notebooks in Google Colab:
 
 - 📊 **Player Heatmap Analysis (World Cup)**  
-  [Open in Colab](https://colab.research.google.com/drive/1KqpJNR3HeR0WHxMN4U0QSUSDq0m1zyK8  
+  [Open in Colab](https://colab.research.google.com/drive/1KqpJNR3HeR0WHxMN4U0QSUSDq0m1zyK8?usp=sharing  
   [Open in Colab](https://colab.research.google.com/drive/1atx6wMqQdPFQD4STPy9t0RTFjS_wG_nF
 
 ## 📄 License

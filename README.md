@@ -28,8 +28,7 @@ This repository is part of a research project on identifying attacking roles in 
   : This file
 
 ## Data Source
-This project uses publicly available data from the [tatsBomb Open Data repository.
-
+This project uses publicly available data from the [tatsBomb Open Data repository.  
 https://github.com/statsbomb/open-data
 
 

@@ -33,6 +33,7 @@ Note: According to StatsBomb's terms and conditions, if you publish, share, or d
 
 本研究では、[StatsBomb Open Data](https://github.com/statsbomb/open-data/)で公開されているFIFAワールドカップのイベントデータを使用しています。  
 ※本リポジトリはStatsBombのオープンデータを用いた研究成果を含みます。公開・共有にあたっては、StatsBombをデータソースとして明記し、Media Packに含まれるロゴの使用が推奨されています。
+<img width="5885" height="943" alt="SB - Icon Lockup - Colour positive" src="https://github.com/user-attachments/assets/0d5aa890-4b0c-4bcd-9b93-e4be5dfdb51a" />
 
 ## 🧭 Execution Order / 実行順序
 Please run the notebooks in the following order:

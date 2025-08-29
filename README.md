@@ -26,6 +26,35 @@ Please run the notebooks in the following order:
 
 ---
 
+## 🛠️ Environment / 実行環境
+
+These notebooks were developed and tested using Google Colab, which provides a pre-configured Python environment in the cloud.  
+No local setup is required.
+
+The following libraries are used (all available by default in Colab):
+
+- Python 3.10+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- tensorflow / keras (for CNN model)
+
+---
+
+本ノートブックは [Google Colab](https://colab.researchす。  
+Colabに標準で含まれている以下のライブラリを使用しています：
+
+- Python 3.10以上  
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
+- scikit-learn  
+- tensorflow / keras（CNNモデル用）
+
+
 以下の順番でノートブックを実行してください：
 1. **選手個人のヒートマップ分析（W杯）**  
    StatsBombのイベントデータを用いて、W杯における選手個人のヒートマップを作成します。データの読み込み、フィルタリング、可視化の処理を含みます。
